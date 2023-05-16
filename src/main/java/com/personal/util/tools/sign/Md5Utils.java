@@ -1,4 +1,4 @@
-package com.personal.util.utils.sign;
+package com.personal.util.tools.sign;
 
 import java.security.MessageDigest;
 import org.slf4j.Logger;

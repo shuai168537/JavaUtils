@@ -1,4 +1,4 @@
-package com.personal.util.utils;
+package com.personal.util.tools;
 
 import java.util.Formatter;
 import java.util.UUID;

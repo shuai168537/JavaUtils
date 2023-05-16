@@ -1,4 +1,4 @@
-package com.personal.util.utils.string;
+package com.personal.util.tools.string;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

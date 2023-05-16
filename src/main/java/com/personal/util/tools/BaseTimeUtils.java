@@ -1,7 +1,7 @@
-package com.personal.util.utils;
+package com.personal.util.tools;
 
 import com.personal.util.config.Constants;
-import com.personal.util.utils.string.StringUtils;
+import com.personal.util.tools.string.StringUtils;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

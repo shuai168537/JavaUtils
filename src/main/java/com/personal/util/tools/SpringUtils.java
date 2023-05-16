@@ -1,6 +1,6 @@
-package com.personal.util.utils;
+package com.personal.util.tools;
 
-import com.personal.util.utils.string.StringUtils;
+import com.personal.util.tools.string.StringUtils;
 import org.springframework.aop.framework.AopContext;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;
